@@ -1,12 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Toh;JC;;;
-FN: JC  Toh 
+N:William;Derek;;;
+FN: Derek  William 
 ORG:TWIn;
-TITLE:Electrical Director
-EMAIL;type=INTERNET;type=WORK;type=pref:tohjc@twin.com.sg
-TEL;type=WORK;type=VOICE:+65 9625 1901
+TITLE:Mechanical Director
+EMAIL;type=INTERNET;type=WORK;type=pref:dvw@twin.com.sg
+TEL;type=WORK;type=VOICE:+65 9821 5598
 item1.ADR;type=WORK;type=pref:;;464 Crawford Lane 02-464;;;190464;Singapore
 item1.X-ABADR:sg
 item2.URL;type=pref:twin.com.sg
